@@ -1,6 +1,6 @@
 VMware Workstation Pro 25H2官方版本界面默认是英文，需通过导入中文语言包实现汉化。
 
-在[Release](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true)中下载zh_CN.zip压缩包。
+在[Release](https://github.com/Hermione027/VMware-Workstation-Full-25H2-zh_CN/releases/tag/Luo)中下载zh_CN.zip压缩包。
 
 解压后把`zh_CN`文件夹复制到 VMware 安装目录下的 Message 文件夹里。
 
