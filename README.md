@@ -39,5 +39,5 @@ pref.locale = "zh_CN"
 ## 适用版本
 
 - `VMware-Workstation-Pro-25H2`
-- `VMware-Workstation-Full-25H2u1`
+- `VMware-Workstation-Pro-25H2u1`
 - 其他版本请自行测试
